@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="transparent">#00000000</color>
+    <!--黑色字体,标题，贴标-->
+    <color name="deep_txt">#000000</color>
+    <color name="xupdate_default_theme_color">#FFE94339</color>
+</resources>
